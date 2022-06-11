@@ -1,2 +1,0 @@
-72059	ETC	icon/item/72059.tga
-72060	ETC	icon/item/72060.tga
